@@ -1,3 +1,4 @@
+
 -- CREATE DATABASE hr_join; # hr_join이라는 DB를 생성한다.
 USE  hr_join; 
 
