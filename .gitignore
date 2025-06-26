@@ -173,3 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 10_NLP_전처리/data/petitions_corpus.txt
+*.bin
+*.sqlite3
+*.pkl
